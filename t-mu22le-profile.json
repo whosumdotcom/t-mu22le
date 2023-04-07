@@ -1,0 +1,26 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-07T12:09:38Z",
+  "IdClaims": [
+    {
+      "Claim": "gh:mu22le"
+    },
+    {
+      "Claim": "t:mu22le"
+    },
+    {
+      "Claim": "mdon:@muzzle@frenfiverse.net"
+    }
+  ],
+  "IdDisclaims": null,
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "8dc5127b663373e83556af7a",
+    "Timestamp": "2023-04-07T12:14:51Z",
+    "Signature": "388e9d0c05e4f9a5a365e895742761714f70f2e07717b0e6bb0c94b5e573b0b6b140823f27653b23b60d667d52f107c29e283a230b3be77f562506eaeb4971e7771155f5b400556a0ee431a8ac88495026c09d8fd3d778316c01c5b5cbf1d57b343bf441726c3bf92d11542e1d6e35fbae0b69bc054000b10c4f25294ac3491947c6e9cd0239877c254bc8984a8fa9a44bf329ed8e83558f48dd61bd810d8f0bd9575b09399df539f7a7a9859abfe9c1c55d724bad59d4d5cc3abc87d939cc210bcd5e0c11d7da9302e6632259a5a79184f35f3af4466ff4e0ed28c67deb1972d21bb33cc5f6582220e48d28df2dca86afe78b47710f5b9c1904079291f8b801"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "b7318af75322006bbe30daec372f2f1dc02f0aac220d689e847a9e85f64772b3",
+  "ContentToHash": "v1|gh:mu22le,mdon:@muzzle@frenfiverse.net,t:mu22le|2023-04-07T12:09:38Z"
+}
